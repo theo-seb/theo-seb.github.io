@@ -1,1 +1,82 @@
-{}
+{
+  "basics": {
+    "name": "Théo SEBASTIEN",
+    "label": "JavaScript developer",
+    "email": "theo.sebast@gmail.com",
+    "phone": "+33619725572",
+    "summary": "Web application developer",
+    "location": {
+      "locationCountryCode": "FR",
+      "city": "Lyon"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "url": "https://linkedin.com/in/th%C3%A9o-s%C3%A9bastien-921a0114b"
+    }]
+  },
+  "work": [
+    {
+      "name": "Sopra Steria",
+      "position": "Engineer",
+      "startDate": "2018-07-01",
+      "summary": "Web development (frontend & backend), mainly JavaScript, in the SAP ecosystem",
+      "location": "Lyon, France",
+      "website": "https://www.soprasteria.com/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "École catholique des arts et métiers (ECAM) [Lyon, France]",
+      "area": "General engineering",
+      "studyType": "Master",
+      "startDate": "2012-09-01",
+      "endDate": "2017-09-01",
+      "courses": [
+        "Object Oriented Programming",
+        "Java",
+        "Information systems"
+      ]
+    },
+    {
+      "institution": "Université de Sherbrooke [Sherbrooke, Canada]",
+      "area": "Mechanical engineering",
+      "studyType": "Master",
+      "startDate": "2016-09-01",
+      "endDate": "2017-09-01",
+      "courses": [
+        "Numerical processing and frequency analysis of experimental data"
+      ]
+    }
+  ],
+  "skills": [
+    {}
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Navite speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Climbing",
+        "Skateboarding",
+        "Bike riding"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "Music",
+        "Cinema",
+        "Literature"
+      ]
+    }
+  ]
+}
