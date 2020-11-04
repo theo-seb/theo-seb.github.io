@@ -19,14 +19,29 @@
       "name": "Sopra Steria",
       "position": "Engineer",
       "startDate": "2018-07-01",
-      "summary": "Web development (frontend & backend), mainly JavaScript, in the SAP ecosystem",
-      "location": "Lyon, France",
-      "website": "https://www.soprasteria.com/"
+      "summary": "Web development (frontend & backend), mainly in JavaScript, in the SAP ecosystem",
+      "location": "Lyon, France"
+    },
+    {
+      "name": "BRP",
+      "position": "Engineering assistant",
+      "startDate": "2017-05-01",
+      "endDate": "2017-09-01",
+      "summary": "Development of a numerical acoustic analysis tool on Matlab",
+      "location": "Sherbrooke, QC, Canada"
+    },
+    {
+      "name": "Clextral",
+      "position": "Technician",
+      "startDate": "2015-06-01",
+      "endDate": "2015-09-01",
+      "summary": "Development of Excel tools with VBA",
+      "location": "Saint-Etienne, France"
     }
   ],
   "education": [
     {
-      "institution": "École catholique des arts et métiers (ECAM) [Lyon, France]",
+      "institution": "ECAM (France)",
       "area": "General engineering",
       "studyType": "Master",
       "startDate": "2012-09-01",
@@ -38,7 +53,7 @@
       ]
     },
     {
-      "institution": "Université de Sherbrooke [Sherbrooke, Canada]",
+      "institution": "Université de Sherbrooke (Canada)",
       "area": "Mechanical engineering",
       "studyType": "Master",
       "startDate": "2016-09-01",
@@ -49,7 +64,38 @@
     }
   ],
   "skills": [
-    {}
+    {
+      "name": "Languages",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "SAPUI5",
+        "Angular",
+        "Basic knowledge in React & VueJS"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Development tools",
+      "keywords": [
+        "Git, GitHub, GitLab",
+        "VSCode"
+      ]
+    }
   ],
   "languages": [
     {
