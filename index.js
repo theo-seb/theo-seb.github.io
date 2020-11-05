@@ -1,6 +1,6 @@
 const { exec } = require('child_process');
-const { stdout, stderr } = require('process');
 const fs = require('fs');
+const path = require('path');
 
 const translations = {
     Contact: 'Contact',
@@ -13,14 +13,17 @@ const translations = {
     Interests: "Centres d'intérêt",
 };
 
-exec('resume export ./public/index.html', (err, stdout, stderr) => {
+const targetPath = path.join(__dirname, '/public/fr/index.html');
+const resumePath = path.join(__dirname, '/resume.json');
+
+exec(`resume export ${targetPath} --resume ${resumePath}`, (err) => {
     if (err) console.log(err);
-    fs.readFile('./public/index.html', 'utf8', (err, htmlContent) => {
+    fs.readFile(targetPath, 'utf8', (err, htmlContent) => {
         if (err) console.log(err);
         for (const [english, french] of Object.entries(translations)) {
             htmlContent = htmlContent.replace(english, french);
         }
-        fs.writeFile('./public/index.html', htmlContent, (err) => {
+        fs.writeFile(targetPath, htmlContent, (err) => {
             if(err) console.log(err);
         })
     });
