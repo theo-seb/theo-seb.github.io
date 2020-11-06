@@ -4,15 +4,21 @@
     "label": "Développeur JavaScript",
     "email": "theo.sebast@gmail.com",
     "phone": "+33619725572",
-    "summary": "Développeur d'applications web",
+    "summary": "Développeur d'applications web, principalement dans l'écosystème SAP (SAPUI5, CAP, HANA, ...), cherchant à élargir ses horizons vers de nouvelles technologies, basées sur JavaScript (comme Angular, React, Vue, NodeJS, ...) ou d'autres langages !",
     "location": {
       "locationCountryCode": "FR",
       "city": "Lyon"
     },
-    "profiles": [{
+    "profiles": [
+      {
       "network": "Linkedin",
-      "url": "https://linkedin.com/in/th%C3%A9o-s%C3%A9bastien-921a0114b"
-    }]
+      "url": "https://linkedin.com/in/théo-sébastien-921a0114b"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/theo-seb"
+      }
+    ]
   },
   "work": [
     {
