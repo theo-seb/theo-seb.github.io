@@ -16,7 +16,7 @@ const translations = {
     Courses: 'Cours',
 };
 
-const targetPath = path.join(__dirname, `/public/${language}/index.html`);
+const targetPath = path.join(__dirname, `/docs/${language}/index.html`);
 const resumePath = path.join(__dirname, `/resume_${language}.json`);
 
 exec(`resume export ${targetPath} --resume ${resumePath}`, (err) => {

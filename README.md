@@ -3,13 +3,13 @@
 Resume using [JSON Resume](https://jsonresume.org/)
 
 
-Building resume in english (=> /public/en/index.html):
+Building resume in english (=> /docs/en/index.html):
 ```
 npm run generate:en
 ```
 
 
-Building resume in french (=> /public/fr/index.html):
+Building resume in french (=> /docs/fr/index.html):
 ```
 npm run generate:fr
 ```
