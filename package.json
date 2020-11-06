@@ -8,7 +8,7 @@
     "jsonresume-theme-kendall": "^0.2.0"
   },
   "scripts": {
-    "generate:fr": "node index.js",
-    "generate:en": "resume export ./public/en/index.html --resume ./resume.json"
+    "generate:fr": "node index.js fr",
+    "generate:en": "node index.js en"
   }
 }
