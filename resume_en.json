@@ -12,7 +12,7 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "url": "https://linkedin.com/in/th%C3%A9o-s%C3%A9bastien-921a0114b"
+        "url": "https://linkedin.com/in/théo-sébastien-921a0114b"
       },
       {
         "network": "GitHub",
@@ -74,6 +74,7 @@
       "name": "Languages",
       "keywords": [
         "JavaScript",
+        "TypeScript",
         "HTML",
         "CSS",
         "Python",
@@ -101,6 +102,15 @@
         "Git, GitHub, GitLab",
         "VSCode"
       ]
+    },
+    {
+      "name": "Concepts",
+      "keywords": [
+        "Software Craftmanship",
+        "TDD",
+        "OOP",
+        "Functional programming"
+      ]
     }
   ],
   "languages": [
@@ -123,7 +133,7 @@
       ]
     },
     {
-      "name": "Art",
+      "name": "Culture",
       "keywords": [
         "Music",
         "Cinema",
