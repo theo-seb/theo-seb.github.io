@@ -1,0 +1,128 @@
+{
+  "basics": {
+    "name": "Théo SEBASTIEN",
+    "label": "Développeur JavaScript",
+    "email": "theo.sebast@gmail.com",
+    "phone": "+33619725572",
+    "summary": "Développeur d'applications web",
+    "location": {
+      "locationCountryCode": "FR",
+      "city": "Lyon"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "url": "https://linkedin.com/in/th%C3%A9o-s%C3%A9bastien-921a0114b"
+    }]
+  },
+  "work": [
+    {
+      "name": "Sopra Steria",
+      "position": "Ingénieur",
+      "startDate": "2018-07-01",
+      "summary": "Développement web (frontend & backend), principalement JavaScript, dans l'écosystème SAP",
+      "location": "Lyon, France"
+    },
+    {
+      "name": "BRP",
+      "position": "Assistant ingénieur",
+      "startDate": "2017-05-01",
+      "endDate": "2017-09-01",
+      "summary": "Développement d'un outil numérique d'analyse acoustique sur MatLab",
+      "location": "Sherbrooke, QC, Canada"
+    },
+    {
+      "name": "Clextral",
+      "position": "Technicien",
+      "startDate": "2015-06-01",
+      "endDate": "2015-09-01",
+      "summary": "Développement d'outils Excel avec VBA",
+      "location": "Saint-Etienne, France"
+    }
+  ],
+  "education": [
+    {
+      "institution": "ECAM (France)",
+      "area": "Généraliste",
+      "studyType": "Master",
+      "startDate": "2012-09-01",
+      "endDate": "2017-09-01",
+      "courses": [
+        "Programmation orientée objet",
+        "Java",
+        "Systèmes d'information"
+      ]
+    },
+    {
+      "institution": "Université de Sherbrooke (Canada)",
+      "area": "Génie mécanique",
+      "studyType": "Maitrise",
+      "startDate": "2016-09-01",
+      "endDate": "2017-09-01",
+      "courses": [
+        "Traitement et analyse fréquentielle des données expérimentales"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Langages",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Python",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "SAPUI5",
+        "Angular",
+        "Bases en React & VueJS"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Outils de développement",
+      "keywords": [
+        "Git, GitHub, GitLab",
+        "VSCode"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Avancé"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Escalade",
+        "Skateboard",
+        "Vélo"
+      ]
+    },
+    {
+      "name": "Culture",
+      "keywords": [
+        "Musique",
+        "Cinéma",
+        "Littérature"
+      ]
+    }
+  ]
+}
