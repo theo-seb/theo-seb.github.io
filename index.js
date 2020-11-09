@@ -4,7 +4,7 @@ const path = require('path');
 
 const language = process.argv[2];
 
-const translations = {
+const translationWords = {
     Contact: 'Contact',
     About: 'À propos',
     Profiles: 'Réseaux sociaux',
@@ -16,6 +16,24 @@ const translations = {
     Courses: 'Cours',
     Phone: 'Téléphone'
 };
+
+const translationDates = {
+    Jan: 'Janvier',
+    Feb: 'Février',
+    Mar: 'Mars',
+    Apr: 'Avril',
+    May: 'Mai',
+    Jun: 'Juin',
+    Jul: 'Juillet',
+    Aug: 'Août',
+    Sep: 'Septembre',
+    Oct: 'Octobre',
+    Nov: 'Novembre',
+    Dec: 'Décembre',
+    Present: `Aujourd'hui`,
+};
+
+const translations = { ...translationWords, ...translationDates };
 
 const targetPath = path.join(__dirname, `/docs/${language}/index.html`);
 const resumePath = path.join(__dirname, `/resume_${language}.json`);
