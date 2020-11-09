@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Théo SEBASTIEN",
+    "name": "Théo SÉBASTIEN",
     "label": "JavaScript developer",
     "email": "theo.sebast@gmail.com",
     "phone": "+33619725572",
@@ -22,32 +22,29 @@
   },
   "work": [
     {
-      "name": "Sopra Steria",
+      "name": "Sopra Steria (Lyon, France)",
       "position": "Engineer",
       "startDate": "2018-07-01",
-      "summary": "Web development (frontend & backend), mainly in JavaScript, in the SAP ecosystem",
-      "location": "Lyon, France"
+      "summary": "Web development (frontend & backend), mainly in JavaScript, in the SAP ecosystem"
     },
     {
-      "name": "BRP",
+      "name": "BRP (Sherbrooke, Canada)",
       "position": "Engineering assistant",
       "startDate": "2017-05-01",
       "endDate": "2017-09-01",
-      "summary": "Development of a numerical acoustic analysis tool on Matlab",
-      "location": "Sherbrooke, QC, Canada"
+      "summary": "Development of a numerical acoustic analysis tool on Matlab"
     },
     {
-      "name": "Clextral",
+      "name": "Clextral (Saint-Etienne, France)",
       "position": "Technician",
       "startDate": "2015-06-01",
       "endDate": "2015-09-01",
-      "summary": "Development of Excel tools with VBA",
-      "location": "Saint-Etienne, France"
+      "summary": "Development of Excel tools with VBA"
     }
   ],
   "education": [
     {
-      "institution": "ECAM (France)",
+      "institution": "ECAM (Lyon, France)",
       "area": "General engineering",
       "studyType": "Master",
       "startDate": "2012-09-01",
@@ -59,7 +56,7 @@
       ]
     },
     {
-      "institution": "Université de Sherbrooke (Canada)",
+      "institution": "Université de Sherbrooke (Sherbrooke, Canada)",
       "area": "Mechanical engineering",
       "studyType": "Master",
       "startDate": "2016-09-01",

@@ -6,14 +6,15 @@ const language = process.argv[2];
 
 const translations = {
     Contact: 'Contact',
-    About: 'A propos',
+    About: 'À propos',
     Profiles: 'Réseaux sociaux',
     Work: 'Expériences',
-    Education: 'Etudes',
+    Education: 'Études',
     Skills: 'Compétences',
     Languages: 'Langues',
     Interests: "Centres d'intérêt",
     Courses: 'Cours',
+    Phone: 'Téléphone'
 };
 
 const targetPath = path.join(__dirname, `/docs/${language}/index.html`);
