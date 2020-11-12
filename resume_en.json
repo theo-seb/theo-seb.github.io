@@ -106,7 +106,8 @@
         "Software Craftmanship",
         "TDD",
         "OOP",
-        "Functional programming"
+        "Functional programming",
+        "CI/CD"
       ]
     }
   ],
